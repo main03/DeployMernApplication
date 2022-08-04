@@ -1,0 +1,31 @@
+.Register{
+
+    margin-left: 30%;
+}
+.sherry{
+    display: inline-block;
+    background-color: red;
+}
+.Register{
+    margin-left: 70%;
+}
+.submitbutton{
+    margin: 20px;
+    width: 100px;
+    padding: 10px;
+    border: solid 1px;
+    cursor: pointer;
+    color: blue;
+    
+}
+.submitbutton:hover{
+    background-color: red;
+}
+
+.inputBox{
+    padding: 7px;
+    display: block;
+    border: 1 px solid blue;
+    width: 300px;
+    margin: 20px;
+}

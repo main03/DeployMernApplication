@@ -1,0 +1,21 @@
+.header-ul li
+{
+  display: inline-block;
+  padding: 10px;
+}
+.header-ul
+{
+  padding: 5px;
+  background-color: blue;
+}
+.header-ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+h1{
+  text-align: center;
+}
+.App{
+  text-align: center;
+}

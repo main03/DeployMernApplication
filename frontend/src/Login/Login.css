@@ -1,0 +1,31 @@
+
+.master{
+
+    margin-left: 30%;
+}
+h3{
+    display: inline-block;
+    background-color: yellow;
+}
+.master{
+    margin-left: 70%;
+}
+.appButton{
+    margin: 20px;
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(39, 52, 231);
+    border: solid 1px;
+    cursor: pointer;
+    color: violet;
+}
+.appButton:hover{
+    background-color: black;
+}
+.inputBox{
+    padding: 7px;
+    display: block;
+    border: 1 px solid blue;
+    width: 300px;
+    margin: 20px;
+}
